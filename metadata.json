@@ -1,0 +1,6 @@
+{
+  "name": "9:16 Aesthetic Poetry Video Generator",
+  "description": "Create aesthetic 9:16 videos for TikTok and Reels with Urdu/English poetry, cinematic motion effects, and background music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
